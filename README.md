@@ -3,7 +3,7 @@
 ### 🧑 &nbsp;About me
 
 - I'm a Software Engineer developing 📱 apps.
-- Currently working on React Native application using Typescript.
+- Currently working on React Native applications using Typescript.
 
 ### 👨‍💻 &nbsp;Languages and Tools
 <p>
