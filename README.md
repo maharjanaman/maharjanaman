@@ -29,5 +29,3 @@
 ### 🔥 &nbsp; My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=maharjanaman&theme=dark)](https://git.io/streak-stats)
-
-[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=maharjanaman)](https://github.com/anuraghazra/github-readme-stats)
